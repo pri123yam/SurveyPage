@@ -1,0 +1,44 @@
+.maint{
+    flex: auto;
+    text-align: center;
+    font-size: 30px;
+    background-color: blue;
+    color: red;
+}
+input[type=text] {
+    color: brown;
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border-style: solid;
+    box-sizing: border-box;
+    margin-left: 500px;
+}
+.button{
+    margin-top: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 800%;
+    width: 10%;
+    margin-left: 650px;
+    background-color: yellow;
+    position: right;
+}
+.topic{
+    padding-left: 500px;
+    text-align: left;
+}
+.bodi{
+    font-display: "bold";
+    font-size: 30px;
+    padding-left: 500px;
+    text-align: left;
+}
+.fori{
+    padding-left: 500px;
+}
+.divi{
+    width: 200px;
+    font: "bold";
+    font-size: 30px;
+}
